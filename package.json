@@ -1,7 +1,6 @@
 {
   "name": "osx-mouselistener",
   "version": "1.0.0",
-  "private": true,
   "description": "Mac OS X 10.5+ Mouse Listener POC",
   "repository": {
     "type": "git",

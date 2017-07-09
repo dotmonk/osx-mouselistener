@@ -17,7 +17,7 @@ npm install osx-mouselistener
 Sorry, I didn't feel like it. It's a POC
 
 ## Why?
-When I was writing a osx-keylogger POC I was intrigued by the possibility of listing for mouse clicks. Would it be easier? I was determined to find out.
+When I was writing a osx-keylogger POC I was intrigued by the possibility of listening for mouse clicks. Would it be easier? I was determined to find out.
 
 ## License
 MIT, see LICENSE file
